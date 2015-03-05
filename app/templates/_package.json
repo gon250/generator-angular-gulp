@@ -1,0 +1,27 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.2",
+    "browserify": "^9.0.3",
+    "chai": "^2.1.1",
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.2",
+    "gulp-karma": "0.0.4",
+    "gulp-minify-css": "^0.5.1",
+    "gulp-minify-html": "^1.0.0",
+    "karma": "^0.12.31",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^0.1.10",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.1.0",
+    "sinon": "^1.13.0"
+  }
+}
